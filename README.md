@@ -1,6 +1,6 @@
-<span style="font-size: 250%;color:Orange">***NEPALI BERT(Phase 1)***</span>.
+<!-- <span style="font-size: 250%;color:Orange">***NEPALI BERT(Phase 1)***</span>. -->
 
-
+# NepaliBERT(Phase 1)
 NEPALIBERT is a state-of-the-art language model for Nepali based on the BERT model. The model is trained using a masked language modeling (MLM). 
 
 ![alt text](1.png "Nepali Bert")
