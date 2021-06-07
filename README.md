@@ -1,7 +1,8 @@
-<!-- <span style="font-size: 250%;color:Orange">***NEPALI BERT(Phase 1)***</span>. -->
 
-# NepaliBERT(Phase 1)
+
+# NepaliBERT(Phase 1) 
 NEPALIBERT is a state-of-the-art language model for Nepali based on the BERT model. The model is trained using a masked language modeling (MLM). 
+
 
 ![alt text](1.png "Nepali Bert")
 
@@ -89,5 +90,6 @@ Final version training datset after complete preprocessing is shown:
 मनमा पीडा राखेर अनुहारमा कृतिम हाँसो छर्दै विद्या शुभचिन्तकको सम्मानमा जुटिरहेकी थिइन् ।
 
 ```
+[Find it on 🤗](https://huggingface.co/Rajan/NepaliBERT)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FR4j4n%2FNepaliBERT&count_bg=%2379C83D&title_bg=%23C6E287&icon=angellist.svg&icon_color=%23BA2424&title=HITS%3A+&edge_flat=true)](https://hits.seeyoufarm.com)
