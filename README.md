@@ -79,7 +79,7 @@ Model Config:
 
 # Training procedure
 
-Nepali-Bert was trained on 67 lakhs line of raw Nepali text data. The fianl data set was formed by combaining [A LARGE SCALE NEPALI TEXT CORPUS](https://ieee-dataport.org/open-access/large-scale-nepali-text-corpus) and [Oscar](https://oscar-corpus.com/) dataset. 
+Nepali-Bert was trained on 67 lakhs line of raw Nepali text data. The final data set was formed by combining [A LARGE SCALE NEPALI TEXT CORPUS](https://ieee-dataport.org/open-access/large-scale-nepali-text-corpus) and [Oscar](https://oscar-corpus.com/) dataset. 
 Final version training datset after complete preprocessing contains each sentence at each line:
 
 ```
